@@ -1,0 +1,141 @@
+{
+	"monday": {
+		"8:44": {
+			"subject": "Study Hall"
+		},
+		"9:42": {
+			"subject": "American Literature"
+		},
+		"10:40": {
+			"subject": "Algebra 2"
+		},
+		"11:38": {
+			"subject": "American History"
+		},
+		"12:36": {
+			"subject": "Tech Theatre"
+		},
+		"13:05": {
+			"subject": "Lunch"
+		},
+		"13:34": {
+			"subject": "Academy Time"
+		},
+		"14:32": {
+			"subject": "SSC"
+		},
+		"15:30": {
+			"subject": "Anatomy"
+		}
+	},
+  "tuesday": {
+		"8:44": {
+			"subject": "Study Hall"
+		},
+		"9:42": {
+			"subject": "American Literature"
+		},
+		"10:40": {
+			"subject": "Algebra 2"
+		},
+		"11:38": {
+			"subject": "American History"
+		},
+		"12:36": {
+			"subject": "Tech Theatre"
+		},
+		"13:05": {
+			"subject": "Lunch"
+		},
+		"13:34": {
+			"subject": "Academy Time"
+		},
+		"14:32": {
+			"subject": "SSC"
+		},
+		"15:30": {
+			"subject": "Anatomy"
+		}
+	},
+  "wednesday": {
+		"8:44": {
+			"subject": "Study Hall"
+		},
+		"9:42": {
+			"subject": "American Literature"
+		},
+		"10:40": {
+			"subject": "Algebra 2"
+		},
+		"11:38": {
+			"subject": "American History"
+		},
+		"12:36": {
+			"subject": "Tech Theatre"
+		},
+		"13:05": {
+			"subject": "Lunch"
+		},
+		"13:34": {
+			"subject": "Academy Time"
+		},
+		"14:32": {
+			"subject": "SSC"
+		},
+		"15:30": {
+			"subject": "Anatomy"
+		}
+	},
+  "thursday": {
+		"8:44": {
+			"subject": "Study Hall"
+		},
+		"9:42": {
+			"subject": "American Literature"
+		},
+		"10:40": {
+			"subject": "Algebra 2"
+		},
+		"11:38": {
+			"subject": "American History"
+		},
+		"12:36": {
+			"subject": "Tech Theatre"
+		},
+		"13:05": {
+			"subject": "Lunch"
+		},
+		"13:34": {
+			"subject": "Academy Time"
+		},
+		"14:32": {
+			"subject": "SSC"
+		},
+		"15:30": {
+			"subject": "Anatomy"
+		}
+	},
+  "friday": {
+		"8:29": {
+			"subject": "Study Hall"
+		},
+		"9:09": {
+			"subject": "American Literature"
+		},
+		"9:49": {
+			"subject": "Algebra 2"
+		},
+		"10:29": {
+			"subject": "American History"
+		},
+		"11:09": {
+			"subject": "Tech Theatre"
+		},
+		"11:49": {
+			"subject": "SSC"
+		},
+    "12:30": {
+			"subject": "Anatomy"
+		}
+	}
+}
